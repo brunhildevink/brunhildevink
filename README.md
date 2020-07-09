@@ -5,10 +5,14 @@ ____
 
 Glad you found my github profile! I'm a front-end dev based in the Netherlands, and I'm always on the lookout for new technologies.
 
-<a href="https://dev.to/brunhildevink">
+<a href="https://dev.to/brunhildevink" target="_blank">
   <img height="30" src="https://github.com/brunhildevink/brunhildevink/blob/master/img/dev.png" />
 </a>
 
-<a href="https://twitter.com/bruunke">
+<a href="https://twitter.com/bruunke" target="_blank">
   <img height="30" src="https://github.com/brunhildevink/brunhildevink/blob/master/img/twitter.png" />
+</a>
+
+<a href="https://dribbble.com/Bruunke" target="_blank">
+  <img heigth="30" src="https://github.com/brunhildevink/brunhildevink/blob/master/img/dribbble.png" />
 </a>
