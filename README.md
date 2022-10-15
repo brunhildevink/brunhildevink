@@ -22,6 +22,6 @@
 
 ### Hi there 👋
 
-Glad you found my github profile! I'm a front-end dev based in the Netherlands, and I'm always on the lookout for new technologies.
+Glad you found my github profile! I'm a front-end dev based in the Netherlands. I love design, art and dogs 🐶
 
 
