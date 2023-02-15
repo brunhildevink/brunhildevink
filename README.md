@@ -1,4 +1,4 @@
-<h4 align="center">
+<div align="center">
   <h1 align="center">
     Hi!
     <img
@@ -8,7 +8,11 @@
     />
     I'm Brunhilde
   </h1>
-  <h4 align="center">I'm a web developer with a big passion for design 💁🏼‍♀️ <br><br> I love video games 🎮 and my dog 🐶 <br><br> I can brew a good espresso ☕️ and I'm very good at getting lost in nature 🌱</h4>
+  <h4 align="center">I'm a web developer with a big passion for design. 💁🏼‍♀️</h4>
+  <p>
+    I like video games 🎮 and my dog. 🐶 I can brew a good espresso ☕️ and I'm
+    very good at getting lost in nature 🌱
+  </p>
 </div>
 
 <br />
