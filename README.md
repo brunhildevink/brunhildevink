@@ -1,27 +1,129 @@
-<p align='center'>
-  <a href="https://dribbble.com/Bruunke">
-    <img height="300" src="https://cdn.dribbble.com/users/1473016/screenshots/9667200/media/c200152a9de487acae2dc5b78d313d23.jpg" />
-  </a>
-</p>
+<div align="center">
+  <h1 align="center">
+    Hi!
+    <img
+      alt="waving hand"
+      width="35"
+      src="https://user-images.githubusercontent.com/31671898/218993520-f832e827-77cb-4a5f-97dc-3613192aa324.gif"
+    />
+    I'm Brunhilde
+  </h1>
+  <h4 align="center">I'm a web developer with a big passion for design.</h4>
+  <br />
+</div>
 
-<p align='center'>
-  <a href="https://dev.to/brunhildevink">
-    <img height="30" src="https://github.com/brunhildevink/brunhildevink/blob/master/img/dev.png" />
-  </a>
+<div align="center" width="50%">
+  <h2 align="center">💁🏼‍♀️ About me</h2>
+  <p>I like video games 🎮</p>
+  <p>I love my dog 🐶</p>
+  <p>I can brew a good espresso ☕️</p>
+  <p>I can get completely lost in nature 🌱</p>
+</div>
 
-  <a href="https://twitter.com/bruunke">
-    <img height="30" src="https://github.com/brunhildevink/brunhildevink/blob/master/img/twitter.png" />
-  </a>
+<br />
 
-  <a href="https://dribbble.com/Bruunke">
-    <img height="30" src="https://github.com/brunhildevink/brunhildevink/blob/master/img/dribbble.png" />
-  </a>
-</p>
+<div>
+  <h2 align="center">🚀 My skills</h2>
+  <div align="center">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript skill"
+      height="30"
+    />
+    <img
+      align="center"
+      src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"
+      alt="react skill"
+      height="30"
+    />
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black"
+      alt="next.js skill"
+      height="30"
+    />
+  </div>
 
- ---
+  <br />
 
-### Hi there 👋
+  <div align="center">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white"
+      alt="graphql skill"
+      height="30"
+    />
+    <img
+      align="center"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html skill"
+      height="30"
+    />
+    <img
+      align="center"
+      src="https://img.shields.io/badge/CSS3-04AA6D?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3 skill"
+      height="30"
+    />
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python skill"
+      height="30"
+    />
+  </div>
+</div>
 
-Glad you found my github profile! I'm a front-end dev based in the Netherlands. I love design, art and dogs 🐶
+<br />
 
+<div>
+  <h2 align="center">🤙 Reach out</h2>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/brunhilde-vink/" target="blank">
+      <img
+        align="center"
+        src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="linkedin profile brunhilde"
+        height="30"
+      />
+    </a>
+    <a href="mailto:brunhildevink1995@gmail.com" target="blank">
+      <img
+        align="center"
+        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="email brunhilde"
+        height="30"
+      />
+    </a>
+  </div>
+  <br />
+  <div align="center">
+    <a href="https://dev.to/brunhildevink" target="blank">
+      <img
+        align="center"
+        src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+        alt="dev.to brunhilde"
+        height="30"
+      />
+    </a>
+    <a href="https://dribbble.com/Bruunke" target="blank">
+      <img
+        align="center"
+        src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"
+        alt="dribbble brunhilde"
+        height="30"
+      />
+    </a>
+    <a href="https://twitter.com/bruunke" target="blank">
+      <img
+        align="center"
+        src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="twitter brunhilde"
+        height="30"
+      />
+    </a>
+  </div>
+</div>
 
+<br />
