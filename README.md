@@ -10,8 +10,7 @@
   </h1>
   <h4 align="center">I'm a web developer with a big passion for design. 💁🏼‍♀️</h4>
   <p>
-    I like video games 🎮 and my dog. 🐶 I can brew a good espresso ☕️ and I'm
-    very good at getting lost in nature 🌱
+    I like video games 🎮 and my dog. 🐶 I'm good at brewing espressos ☕️ and getting lost in nature 🌱
   </p>
 </div>
 
