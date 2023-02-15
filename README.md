@@ -1,4 +1,4 @@
-<div align="center">
+<h4 align="center">
   <h1 align="center">
     Hi!
     <img
@@ -8,16 +8,7 @@
     />
     I'm Brunhilde
   </h1>
-  <h4 align="center">I'm a web developer with a big passion for design.</h4>
-  <br />
-</div>
-
-<div align="center" width="50%">
-  <h2 align="center">💁🏼‍♀️ About me</h2>
-  <p>I like video games 🎮</p>
-  <p>I love my dog 🐶</p>
-  <p>I can brew a good espresso ☕️</p>
-  <p>I can get completely lost in nature 🌱</p>
+  <h4 align="center">I'm a web developer with a big passion for design 💁🏼‍♀️ <br><br> I love video games 🎮 and my dog 🐶 <br><br> I can brew a good espresso ☕️ and I'm very good at getting lost in nature 🌱</h4>
 </div>
 
 <br />
