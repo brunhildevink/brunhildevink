@@ -1,23 +1,21 @@
 <div align="center">
   <h1 align="center">
-    Hi!
+    Hey!
     <img
       alt="waving hand"
       width="35"
       src="https://user-images.githubusercontent.com/31671898/218993520-f832e827-77cb-4a5f-97dc-3613192aa324.gif"
     />
-    I'm Brunhilde
   </h1>
-  <h4 align="center">I'm a web developer with a big passion for design. 💁🏼‍♀️</h4>
   <p>
-    I like video games 🎮 and my dog. 🐶 I'm good at brewing espressos ☕️ and getting lost in nature 🌱
+    Web dev • game dev • 3d modeling • design and animation
   </p>
 </div>
 
 <br />
 
 <div>
-  <h2 align="center">🚀 My skills</h2>
+  <h2 align="center">🚀</h2>
   <div align="center">
     <img
       align="center"
@@ -72,7 +70,7 @@
 <br />
 
 <div>
-  <h2 align="center">🤙 Reach out</h2>
+  <h2 align="center">🤙</h2>
   <div align="center">
     <a href="https://www.linkedin.com/in/brunhilde-vink/" target="blank">
       <img
