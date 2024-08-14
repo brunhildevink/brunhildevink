@@ -48,18 +48,6 @@
     />
     <img
       align="center"
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html skill"
-      height="30"
-    />
-    <img
-      align="center"
-      src="https://img.shields.io/badge/CSS3-04AA6D?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3 skill"
-      height="30"
-    />
-    <img
-      align="center"
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python skill"
       height="30"
